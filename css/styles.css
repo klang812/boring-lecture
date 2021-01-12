@@ -1,4 +1,9 @@
 .intro {
-  font-style: italic;
+  font-style: normal;
+  font-weight: bold;
   font-family: 'Courier New', Courier, monospace;
 }
+
+.paragraph {
+  border: 2px red solid;
+  }
